@@ -1,0 +1,136 @@
+.div1 {
+    
+    text-align: center;
+    height: 200px;
+    width: 965px;
+    padding: 100px;
+    margin-top: 25px;
+    margin-left: 50px;
+    border-radius: 16px;
+    background-image: url(Banner\ Image.png);
+    
+    
+}
+
+div>p {
+    color: #FFF;
+
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+div>h1 {
+    color: #FFF;
+
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 95px;
+    padding-bottom: 20px;
+    /* 131.944% */
+}
+.div2{
+    color: #F00;
+
+text-align: center;
+font-family: Inter;
+font-size: 88px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+#off{
+    color: #F00;
+
+text-align: center;
+font-family: Inter;
+font-size: 88px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+#holiday{
+    color: #F00;
+
+text-align: center;
+font-family: Inter;
+font-size: 15px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+#category{
+    color: #070211;
+
+text-align: center;
+font-family: Inter;
+font-size: 30px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+#newyearphoto{
+    width: 400px;
+    height: 300px;
+}
+#welcome{
+    text-align: left;
+    font-size: 40px;
+    
+}
+.second{
+    text-align: center;
+    height: 300px;
+    width: 965px;
+    padding: 100px;
+    margin-top: 25px;
+    margin-left: 50px;
+    border-radius: 16px;
+    background-image: url(Vectorrr.png);
+    background-repeat: no-repeat;
+}
+#learning{
+    text-align: left;
+}
+#button{
+    border: 0;
+    font-size: 20px;
+    
+}
+#third{
+    
+    text-align: center;
+    height: 300px;
+    width: 965px;
+    padding: 100px;
+    margin-top: 25px;
+    margin-left: 50px;
+    border-radius: 16px;
+    background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+    
+}
+#place{
+    color: black;
+}
+#date{
+    color: black;
+}
+#time{
+    color: black;
+}
+#placecolor{
+    color: red;
+}
+#datecolor{
+    color: red;
+}
+#timecolor{
+    color: red;
+}
